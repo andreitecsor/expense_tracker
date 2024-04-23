@@ -52,7 +52,7 @@ void main() {
                     color: kColorScheme.onSecondaryContainer,
                     fontSize: 20),
               )),
-      themeMode: ThemeMode.system, //default
+      themeMode: ThemeMode.dark, //default
       home: const Expenses(),
     ),
   );
